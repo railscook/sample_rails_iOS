@@ -1,0 +1,21 @@
+# osx noise
+.DS_Store
+profile
+
+# xcode noise
+build/*
+*.pbxuser
+*.mode1v3
+*.mode2v3
+
+# old skool
+.svn
+
+*.sqlite3
+
+.bundle
+db/*.sqlite3
+log/*.log
+tmp/
+.sass-cache/
+
